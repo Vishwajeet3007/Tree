@@ -13,6 +13,8 @@ def isUniValTree(root):
             return False
         return dfs(node.left) and dfs(node.right)
     return dfs(root)
+
+
 def buildTree(values):
     if not values:
         return None

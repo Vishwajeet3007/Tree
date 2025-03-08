@@ -22,7 +22,7 @@ class Solution:
 
 # Creating a sample tree: 
 #        1
-#       / \
+#       / \  
 #      2   3
 #     / \  / \
 #    4   5 6  7
